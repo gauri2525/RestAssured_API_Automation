@@ -31,6 +31,8 @@ public void addBook(String isbn, String aisle) {
 	
 	System.out.println("New book's ID is "+BookID);
 	
+	//Adding print statement directly in Giithub
+	System.out.println("added directly from GitHub");
 	
 }
 
