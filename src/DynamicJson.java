@@ -34,6 +34,9 @@ public void addBook(String isbn, String aisle) {
 	//Adding print statement directly in Giithub
 	System.out.println("added directly from GitHub");
 	
+	System.out.println("added from eclipse editor");
+	
+	
 }
 
 @DataProvider(name="Booksdata")
