@@ -41,7 +41,7 @@ public class AddAPIValidate {
 		
 		//Update Place
 		
-		String newAddress= "65 winter walk, USA";
+		String newAddress= "65 winter walk, USA1";
 		given().log().all().queryParam("key", "qaclick123").header("Content-Type","application/json")
 		.body("{\r\n"
 				+ "\"place_id\":\""+PlaceID+"\",\r\n"
